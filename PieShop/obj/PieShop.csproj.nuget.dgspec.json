@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\conuoha\\source\\repos\\PieShop\\PieShop\\PieShop.csproj": {}
+    "C:\\Users\\conuoha\\Source\\Repos\\PieShop\\PieShop\\PieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\conuoha\\source\\repos\\PieShop\\PieShop\\PieShop.csproj": {
+    "C:\\Users\\conuoha\\Source\\Repos\\PieShop\\PieShop\\PieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\conuoha\\source\\repos\\PieShop\\PieShop\\PieShop.csproj",
+        "projectUniqueName": "C:\\Users\\conuoha\\Source\\Repos\\PieShop\\PieShop\\PieShop.csproj",
         "projectName": "PieShop",
-        "projectPath": "C:\\Users\\conuoha\\source\\repos\\PieShop\\PieShop\\PieShop.csproj",
+        "projectPath": "C:\\Users\\conuoha\\Source\\Repos\\PieShop\\PieShop\\PieShop.csproj",
         "packagesPath": "C:\\Users\\conuoha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\conuoha\\source\\repos\\PieShop\\PieShop\\obj\\",
+        "outputPath": "C:\\Users\\conuoha\\Source\\Repos\\PieShop\\PieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

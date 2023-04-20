@@ -56,7 +56,7 @@ namespace PieShop.Models
         [Display(Name = "Email")]
         [StringLength(50)]
         [DataType(DataType.EmailAddress)]
-        [RegularExpression(@"^[a-z0-9_\\+-]+(\\.[a-z0-9_\\+-]+)*@[a-z0-9-]+(\\.[a-z0-9]+)*\\.([a-z]{2,4})$", ErrorMessage ="Email address entered is not valid")]
+        //[RegularExpression(@"^[a-z0-9_\\+-]+(\\.[a-z0-9_\\+-]+)*@[a-z0-9-]+(\\.[a-z0-9]+)*\\.([a-z]{2,4})$", ErrorMessage ="Email address entered is not valid")]
         public string Email { get; set; } = string.Empty;
         public decimal OrderTotal { get; set; }
         public DateTime OrderPlaced { get; set; }

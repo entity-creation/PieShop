@@ -48,5 +48,10 @@ namespace PieShop.Controllers
             }
             return View(pie);
         }
+
+        public IActionResult Search()
+        {
+            return View();
+        }
     }
 }

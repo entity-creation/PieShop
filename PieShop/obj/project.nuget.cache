@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3mN0Nfo9p94jbaqTiHnAc7lEcAs4CUBqds1cLuWQLLEBVIm23LonjMA0HGNvRRx690PFfH6vv+o1HSCCFtVVNw==",
+  "dgSpecHash": "vfS+ofzyG26UjtY+o6sw17aEz2HiSaeqtb8UBVFSJGqK8wHA6J+U9L8QZbgzQzyd6m3qhWjp4otcdaVITbLKHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\conuoha\\source\\repos\\PieShop\\PieShop\\PieShop.csproj",
+  "projectFilePath": "C:\\Users\\conuoha\\Source\\Repos\\PieShop\\PieShop\\PieShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conuoha\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\conuoha\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
